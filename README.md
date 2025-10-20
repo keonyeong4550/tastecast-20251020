@@ -20,7 +20,7 @@
 
 ## UI 기획
 
-![내사진](https://github.com/user-attachments/assets/c44bfa09-0d38-42fc-9310-e9c51912f924)
+<img src="https://github.com/user-attachments/assets/9e97b365-fa9d-4e85-8aaa-c8bd4d95454c" width="400" alt="Image" />
 
 ## 개발 일정
 
