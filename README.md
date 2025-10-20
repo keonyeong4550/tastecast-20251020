@@ -20,7 +20,7 @@
 
 ## UI 기획
 
-![5조 프로젝트.png](attachment:17f35079-f161-446d-85f2-981d4bcbc3a8:5조_프로젝트.png)
+![5조 프로젝트.png](https://www.notion.so/React-Project-5-28caa939b4b3808eb6d8c6c5236f855b?source=copy_link#28caa939b4b380168629f08981288b04)
 
 ## 개발 일정
 
