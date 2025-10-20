@@ -20,13 +20,15 @@
 
 ## UI 기획
 
-<img width="790" height="577" alt="Image" src="https://github.com/user-attachments/assets/c6acfb68-5d60-430d-9bfe-a46a1fae17c9" />
+<img width="3268" height="2212" alt="Image" src="https://github.com/user-attachments/assets/c23930e9-0ef9-491b-8a3b-e2ed9acb360d" />
 
 ## 개발 일정
 
-![image.png](attachment:7c360546-d4e1-4d6e-aa84-2ceefb86e139:image.png)
+<img width="790" height="577" alt="Image" src="https://github.com/user-attachments/assets/c6acfb68-5d60-430d-9bfe-a46a1fae17c9" />
 
 ## API 설명서
+
+<img width="479" height="771" alt="Image" src="https://github.com/user-attachments/assets/897be128-9cd9-4424-a3b9-0b40296ce057" />
 
 ## 각자 맡은 역할
 
@@ -76,11 +78,11 @@
 - 코드 통합
 - SPA 라우팅 기능 구현
 
-## flow + UI(gif 파일이면 더 좋음)
+## flow Chart
 
-![오늘 뭐 먹지 flow chart.drawio (3).png](<attachment:b7fe4a65-b92f-48f3-9248-f267b0affbca:오늘_뭐_먹지_flow_chart.drawio_(3).png>)
+<img width="1951" height="1641" alt="Image" src="https://github.com/user-attachments/assets/9199dfcd-d99f-4c93-bd50-1c2340e5bbda" />
 
-## 구현 화면
+## UI 구현 화면
 
 ![Image](https://github.com/user-attachments/assets/54f112ba-44c4-4933-92bc-89655bec5a12)
 
