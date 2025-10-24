@@ -170,7 +170,7 @@ src/
 
 | 등록(Create) / 조회(Read) / 수정(Update) | 삭제(Delete) |
 |:-----------------------------------------:|:-------------:|
-| ![CRU](./images/recipeCreate.gif) | ![D](./images/D.gif) |
+| ![Image](https://github.com/user-attachments/assets/d7137dbb-41a7-4fe7-9e78-5c5ee8bc37ec) | ![D](./images/D.gif) |
 
 ---
 
