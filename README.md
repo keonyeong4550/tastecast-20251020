@@ -170,7 +170,7 @@ src/
 
 | 등록(Create) / 조회(Read) / 수정(Update) | 삭제(Delete) |
 |:-----------------------------------------:|:-------------:|
-| ![Image](https://github.com/user-attachments/assets/d7137dbb-41a7-4fe7-9e78-5c5ee8bc37ec) | ![D](./images/D.gif) |
+| ![CRU](./images/recipeCreate.gif) | ![D](./images/D.gif) |
 
 ---
 
@@ -219,9 +219,9 @@ src/
 
 > 초기 렌더링 속도 개선과 렌더링 효율 향상을 위한 최적화 기법을 적용했습니다.
 
-| Before | After |
+| Before(668.9ms) | After(5.3 ms) |
 |:------:|:-----:|
-|<img width="1891" height="894" alt="Image" src="https://github.com/user-attachments/assets/570e6cb9-0fbe-4814-b0e3-0563d930cc2e" /> | <img width="1886" height="903" alt="Image" src="https://github.com/user-attachments/assets/dcc35e84-7689-443d-93d6-09a46a9d501d" /> |
+| ![성능 Before](./images/KakaoTalk_20251020_121817551.png) | ![성능 After](./images/KakaoTalk_20251020_121817551_01.png) |
 
 #### 🚀 적용 기술
 - **React-Virtualized** : 대용량 데이터 처리 최적화  
@@ -248,7 +248,7 @@ src/
 - 🗺️ **Kakao Map API** : 위치 기반 행정구 조회  
 - 🌤️ **OpenWeather API** : 날씨 데이터 실시간 연동  
 
-<img width="1267" height="698" alt="Image" src="https://github.com/user-attachments/assets/49cdc1cc-b57e-4bf3-8da4-7aa24a6df3e0" />
+![외부 데이터 연동](./images/weather_img.png)
 
 ---
 
@@ -347,7 +347,7 @@ src/
 ## 🧩 Flow & UI
 
 ### 🧭 Flow Chart
-<img width="1951" height="1641" alt="Image" src="https://github.com/user-attachments/assets/c5db1f53-9bf2-4089-954b-179b6e946cde" />
+![Flow Chart](./images/flow_chart.drawio.png)
 
 ---
 
@@ -416,6 +416,7 @@ yarn add styled-components
 
 앞으로도 본 프로젝트를 기반으로 **더 완성도 높은 서비스형 웹 애플리케이션**으로 발전시켜 나갈 계획입니다.  
 > 함께한 팀원들과의 협업을 통해 **작은 아이디어를 실현 가능한 서비스로 구현하는 경험**을 얻은 뜻깊은 프로젝트였습니다. 🙌
+
 
 
 
