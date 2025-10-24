@@ -221,7 +221,7 @@ src/
 
 | Before | After |
 |:------:|:-----:|
-| ![성능 Before](./images/KakaoTalk_20251020_121817551.png) | ![성능 After](./images/KakaoTalk_20251020_121817551_01.png) |
+|<img width="1891" height="894" alt="Image" src="https://github.com/user-attachments/assets/570e6cb9-0fbe-4814-b0e3-0563d930cc2e" /> | <img width="1886" height="903" alt="Image" src="https://github.com/user-attachments/assets/dcc35e84-7689-443d-93d6-09a46a9d501d" /> |
 
 #### 🚀 적용 기술
 - **React-Virtualized** : 대용량 데이터 처리 최적화  
@@ -248,7 +248,7 @@ src/
 - 🗺️ **Kakao Map API** : 위치 기반 행정구 조회  
 - 🌤️ **OpenWeather API** : 날씨 데이터 실시간 연동  
 
-![외부 데이터 연동](./images/weather_img.png)
+<img width="1267" height="698" alt="Image" src="https://github.com/user-attachments/assets/49cdc1cc-b57e-4bf3-8da4-7aa24a6df3e0" />
 
 ---
 
@@ -347,7 +347,7 @@ src/
 ## 🧩 Flow & UI
 
 ### 🧭 Flow Chart
-![Flow Chart](./images/flow_chart.drawio.png)
+<img width="1951" height="1641" alt="Image" src="https://github.com/user-attachments/assets/c5db1f53-9bf2-4089-954b-179b6e946cde" />
 
 ---
 
