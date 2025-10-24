@@ -221,7 +221,7 @@ src/
 
 | Before(668.9ms) | After(5.3 ms) |
 |:------:|:-----:|
-| ![성능 Before](./images/KakaoTalk_20251020_121817551.png) | ![성능 After](./images/KakaoTalk_20251020_121817551_01.png) |
+|<img width="1891" height="894" alt="Image" src="https://github.com/user-attachments/assets/3a6bcc16-77b2-4eb8-9f78-a78939ba68be" /> |<img width="1886" height="903" alt="Image" src="https://github.com/user-attachments/assets/4a8a4c51-e4fd-4d96-bbef-431d90436d02" /> |
 
 #### 🚀 적용 기술
 - **React-Virtualized** : 대용량 데이터 처리 최적화  
@@ -248,7 +248,7 @@ src/
 - 🗺️ **Kakao Map API** : 위치 기반 행정구 조회  
 - 🌤️ **OpenWeather API** : 날씨 데이터 실시간 연동  
 
-![외부 데이터 연동](./images/weather_img.png)
+<img width="1267" height="698" alt="Image" src="https://github.com/user-attachments/assets/24d7ef3d-0e03-4f67-afe6-b6c8b5d62c1d" />
 
 ---
 
@@ -347,7 +347,7 @@ src/
 ## 🧩 Flow & UI
 
 ### 🧭 Flow Chart
-![Flow Chart](./images/flow_chart.drawio.png)
+<img width="1951" height="1641" alt="Image" src="https://github.com/user-attachments/assets/8b86fb79-d322-4991-885a-49c65cd1be21" />
 
 ---
 
@@ -355,11 +355,11 @@ src/
 
 | 메인 페이지 | 전체 레시피 |
 |:------------:|:------------:|
-| ![메인 페이지](./images/main_page.png) | ![전체 레시피](./images/allRecipe.png) |
+| <img width="1264" height="697" alt="Image" src="https://github.com/user-attachments/assets/8b99f285-758e-4a61-af57-a43e84cc2332" /> |<img width="1268" height="693" alt="Image" src="https://github.com/user-attachments/assets/9a96e1ef-f2e0-4d14-bc50-d3d572eb5a9b" /> |
 
 | 레시피 추가 | 레시피 수정 |
 |:------------:|:------------:|
-| ![추가 페이지](./images/createRecipe.png) | ![수정 페이지](./images/update_page.png) |
+|<img width="1265" height="696" alt="Image" src="https://github.com/user-attachments/assets/c1129f31-98c4-4572-bf6b-2330855ec0e3" /> |<img width="1280" height="695" alt="Image" src="https://github.com/user-attachments/assets/b04ae727-4a60-4782-b264-c8513d5b72a0" /> |
 
 ---
 
